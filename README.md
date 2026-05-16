@@ -93,7 +93,7 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 ### Built With
 
-* [![Flutter][Flutter][Flutter-url]]
+* [![Flutter][Flutter-badge]][Flutter-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,5 +131,5 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
 <!-- Shields.io badges. You can a comprehensive list with many more badges at: https://github.com/inttter/md-badges -->
-[Flutter]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+[Flutter-badge]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 [Flutter-url]: https://flutter.dev/
