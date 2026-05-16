@@ -28,16 +28,12 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <a href="https://github.com/developer-benny-zhu/birdle">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">Birdle</h3>
+  <h3 align="center">Birdle</h3>
 
   <p align="center">
-    Wordle clone made in flutter.
+    Wordle clone made in Flutter.
+    <br />
     <br />
     <a href="https://github.com/developer-benny-zhu/birdle"><strong>Explore the docs »</strong></a>
     <br />
@@ -83,7 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/developer-benny-zhu/birdle)
 
 Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
 
@@ -129,7 +125,7 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 [license-url]: https://github.com/developer-benny-zhu/birdle/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: docs/images/screenshot.png
 <!-- Shields.io badges. You can a comprehensive list with many more badges at: https://github.com/inttter/md-badges -->
 [Flutter-badge]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 [Flutter-url]: https://flutter.dev/
