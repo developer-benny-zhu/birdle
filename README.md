@@ -118,7 +118,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [issues-shield]: https://img.shields.io/github/issues/developer-benny-zhu/birdle.svg?style=for-the-badge
 [issues-url]: https://github.com/developer-benny-zhu/birdle/issues
 [license-shield]: https://img.shields.io/github/license/developer-benny-zhu/birdle.svg?style=for-the-badge
-[license-url]: https://github.com/developer-benny-zhu/birdle/blob/master/LICENSE.txt
+[license-url]: https://github.com/developer-benny-zhu/birdle/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: docs/images/screenshot.png
