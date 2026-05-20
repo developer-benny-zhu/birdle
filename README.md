@@ -32,7 +32,7 @@
   <h3 align="center">Birdle</h3>
 
   <p align="center">
-    Wordle clone made in Flutter.
+    A wordle clone
     <br />
     <br />
     <a href="https://github.com/developer-benny-zhu/birdle"><strong>Explore the docs »</strong></a>
